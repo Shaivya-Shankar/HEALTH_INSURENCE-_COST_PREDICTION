@@ -1,3 +1,3 @@
 ##HEALTH_INSURENCE-_COST_PREDICTION
-Linear Regression Machine Learning Model
+this is project Demonstrating the use of Linear Regression Machine Learning Model
  
